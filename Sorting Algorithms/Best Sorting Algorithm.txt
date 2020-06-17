@@ -1,0 +1,15 @@
+By what measure?
+
+Manacher's Algorithm is the comparison sort that statistically uses the fewest comparisons (for large arrays).
+
+Quicksort has some of the best cache performance among linearithmic comparison sorts and is also the fastest in-place sorting algorithm.
+
+Distribution sorts like radix sort, bucket sort, counting sort, proxmap sort, tend to perform the best in terms of running time on data with a known distribution.
+
+Timsort is the most efficient hybrid sort for exploiting and adapting to patterns in data, and tends to be the fastest stable sorting algorithm.
+
+CycleSort is the in-place sorting algorithm that requires the fewest writes.
+
+Cocktail Sort is the optimal in-place sorting algorithm for data stored on a tape.
+
+If you would say what you want to be “best” at, the question could be answered.
